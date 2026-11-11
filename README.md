@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="assets/images/mascot.png" alt="Amiguinho, mascote do Grana Amiga" width="120" /> -->
+<img src="https://github.com/grana-amiga/Mobile-Application-Development/blob/70048aa531d9703bfbd9ede5df5aa9b28a72379c/assets/images/mascot.png" alt="Amiguinho, mascote do Grana Amiga" width="120" /> 
 
 # Grana Amiga
 
